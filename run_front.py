@@ -40,7 +40,7 @@ ser = None
 def start_eye_tracking():
     global eye_process
     if eye_process is None:
-        eye_process = subprocess.Popen(["python", "eye.py"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        eye_process = subprocess.Popen(["python", "direction.py"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         eye_status.config(text="Eye: Running ✅")
 
 def start_eeg_prediction():
