@@ -2,7 +2,7 @@ import subprocess
 import time
 
 # Define the scripts to run
-eye_script = "eye.py" 
+eye_script = "direction.py" 
 prediction_script = "prediction.py"
 
 # Start both processes
