@@ -2,7 +2,7 @@ import subprocess
 import time
 
 # Define scripts
-eye_script = "eye.py"
+eye_script = "direction.py"
 prediction_script = "prediction.py"
 
 # Open log files to prevent terminal flooding
