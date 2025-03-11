@@ -1,9 +1,5 @@
 # 🧠 Intellect Bridge – Mind-Controlled Automation
 
-<p align="center">
-  <img src="#" alt="Project Banner" width="800">  
-  *(Add an image or GIF showcasing the project in action)*
-</p>
 
 ## 🚀 Overview
 **Intellect Bridge** is an **EEG-based Brain-Computer Interface (BCI)** that enables users to **control devices using brain signals**, eliminating the need for physical interaction. This project integrates **machine learning, AI, IoT, and cloud computing** to classify brain activity (Focus vs. Relax) and execute real-time automation.
@@ -27,13 +23,6 @@ By leveraging **Google Cloud AI, Firebase, and advanced ML algorithms**, this sy
 ✔ **Secure Cloud Storage** – Ensures EEG data is encrypted and stored for future improvements.  
 
 ---
-
-## 📊 System Architecture
-<p align="center">
-  <img src="#" alt="System Architecture Diagram" width="800">  
-  *(Add a system architecture diagram illustrating data flow from EEG capture to device control)*
-</p>
-
 ---
 
 ## 🛠️ Technology Stack
@@ -76,12 +65,6 @@ python main.py
 7️⃣ **Adaptive Learning:** ML models refine EEG classifications based on user feedback.
 
 ---
-
-## 📈 Performance & Data Visualization
-<p align="center">
-  <img src="#" alt="EEG Signal Graph" width="800">  
-  *(Add a graph showcasing real-time EEG signal processing and classification accuracy)*
-</p>
 
 ---
 
